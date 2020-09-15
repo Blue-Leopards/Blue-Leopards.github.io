@@ -1,5 +1,6 @@
 title: Blue Leopards
 description: Bowfolios Reimplementation
 theme: jekyll-theme-minimal
-github: 
+github:
+  is_project_page: true
   repository_url: https://github.com/Blue-Leopards/BlueLeopards
