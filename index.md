@@ -25,18 +25,26 @@ You will then need the code which can be forked or downloaded from the [reposito
 
 The current frontend will be in the `client` directory. So, in the BlueLeopards directory, run:
 
-`cd client`
+```
+cd client
+```
 
 You will then need to install the dependencies:
 
-`npm i`
+```
+npm i
+```
 
 To run the application, you will need to start Metro, the JavaScript bundler that ships with React Native:
 
-`npx react-native start`
+```
+npx react-native start
+```
 
 Finally, start the application by opening another terminal and typing:
 
-`npx react-native run-android`
+```
+npx react-native run-android
+```
 
 If everything went well, you will see the app running in the Android emulator.
