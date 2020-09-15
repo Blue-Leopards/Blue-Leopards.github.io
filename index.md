@@ -10,9 +10,15 @@ Blue Leopards is a reimplementation of the functionality of [Bowfolios](https://
 
 ### Profiles Page
 
+![Profiles Page](images/profiles/profiles_page.gif)
+
 ### Projects Page
 
+![Projects Page](images/projects/projects_page.gif)
+
 ### Interests Page
+
+![Interests Page](images/interests/interests_page.gif)
 
 
 ## How To Run
