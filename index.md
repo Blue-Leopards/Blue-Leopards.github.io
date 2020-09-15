@@ -11,7 +11,7 @@ Blue Leopards is a reimplementation of the functionality of [Bowfolios](https://
 ### Profiles Page
 
 <img src="images/profiles/profiles_page.gif" alt="Profiles"
-	title="Profiles Page" width="100" height="194" />
+	title="Profiles Page" width="200" height="388" />
 
 ### Projects Page
 
