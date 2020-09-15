@@ -1,9 +1,9 @@
 ## Table of contents
 
-* [Overview](#overview)
-* [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
-* [Development History](#development-history)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
+* [Current Functionality](#current-functionality)
+* [How to Run](#how-to-run)
+
+
+## Current Functionality
+
+Blue Leopards is a reimplementation of the functionality of [Bowfolios](https://bowfolios.github.io) for mobile devices. Work has currently been done on the frontend using [React Native](https://reactnative.dev) for component-based UI design and [React Native Paper](https://callstack.github.io/react-native-paper/) for production-ready components.
