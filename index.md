@@ -1,12 +1,25 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [Screens](#screens)
 * [How to Run](#how-to-run)
 
 
 ## Overview
 
 Blue Leopards is a reimplementation of the functionality of [Bowfolios](https://bowfolios.github.io) for mobile devices. Work has currently been done on the frontend using [React Native](https://reactnative.dev) for component-based UI design and [React Native Paper](https://callstack.github.io/react-native-paper/) for production-ready components. React Native is a cross-platform UI framework for iOS and Android devices. However, this project is designed with mostly Android devices in mind. These are the current states of the profiles and projects pages (interests page looks similar):
+
+## Screens
+
+### Log In
+
+<img src="images/screens/log-in.png" alt="Log In"
+	title="Log In Page" width="200" height="388" />
+
+### Sign Up
+
+<img src="images/screens/sign-up.png" alt="Sign Up"
+	title="Sign Up Page" width="200" height="388" />
 
 ### Profiles Page
 
@@ -18,6 +31,9 @@ Blue Leopards is a reimplementation of the functionality of [Bowfolios](https://
 <img src="images/projects/projects_page.gif" alt="Projects"
 	title="Projects Page" width="200" height="388" />
 
+### Interests Page
+
+
 
 ## How To Run
 
@@ -25,12 +41,15 @@ Details on how to run this application on *Windows for Android* will be given. F
 
 In order to run this application on your machine, you will need Node, the React Native CLI, Python 2, a JDK, and Android Studio. Although you may use any editor, Android Studio will be used as an emulator in order to run the application. 
 
-You will then need the code which can be forked or downloaded from the [repository](https://github.com/Blue-Leopards/BlueLeopards). 
-
+You will then need the code which can be cloned or downloaded from the [repository](https://github.com/Blue-Leopards/BlueLeopards):
+```
+git clone https://github.com/Blue-Leopards/BlueLeopards.git
+```
+Make your way into the project directory:
 The current frontend will be in the `client` directory. So, in the BlueLeopards directory, run:
 
 ```
-cd client
+cd blueleopards
 ```
 
 You will then need to install the dependencies:
