@@ -71,8 +71,6 @@ Blue Leopards is a reimplementation of the functionality of [Bowfolios](https://
 <img src="images/screens/create-project.png" alt="Create Project"
 	title="Create Project Page" width="200" height="388" />
 
-## Functionality
-
 ## How To Run
 
 Details on how to run this application on *Windows for Android* will be given. For more information on how to set up the development environment for macOS and Linux, refer to the [react native documentation](https://reactnative.dev/docs/environment-setup).
