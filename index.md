@@ -8,7 +8,7 @@
 
 ## Overview
 
-Blue Leopards is a reimplementation of the functionality of [Bowfolios](https://bowfolios.github.io) for mobile devices. Work has currently been done on the frontend using [React Native](https://reactnative.dev) for component-based UI design and [React Native Paper](https://callstack.github.io/react-native-paper/) for production-ready components. React Native is a cross-platform UI framework for iOS and Android devices. However, this project is designed with mostly Android devices in mind. These are the current states of the profiles and projects pages (interests page looks similar):
+Blue Leopards is a reimplementation of the functionality of [Bowfolios](https://bowfolios.github.io) for mobile devices. Work has currently been done on the frontend using [React Native](https://reactnative.dev) for component-based UI design and [React Native Paper](https://callstack.github.io/react-native-paper/) for production-ready components. React Native is a cross-platform UI framework for iOS and Android devices. However, this project is designed with mostly Android devices in mind.
 
 ## Functionality
 
@@ -22,6 +22,7 @@ Blue Leopards is a reimplementation of the functionality of [Bowfolios](https://
 | Manage Account | A user can update their personal account information as well as their interests and projects they have contributed to. |
 | Filter Profiles | User can filter through profiles by a certain interest |
 | Create Project | Create a new project and add its tags (interests) and contributors. |
+| Log Out | User is logged out and navigates back to log in screen. |
 
 ## Screens
 
