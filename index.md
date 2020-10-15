@@ -11,27 +11,50 @@ Blue Leopards is a reimplementation of the functionality of [Bowfolios](https://
 
 ## Screens
 
-<p float="left">
+### Log In Page
+
 <img src="images/screens/log-in.png" alt="Log In"
 	title="Log In Page" width="200" height="388" />
 
+### Sign Up Page
+
 <img src="images/screens/sign-up.png" alt="Sign Up"
 	title="Sign Up Page" width="200" height="388" />
-</p>
 
 ### Profiles Page
 
-<img src="images/profiles/profiles_page.gif" alt="Profiles"
+<img src="images/screens/profiles.png" alt="Profiles"
 	title="Profiles Page" width="200" height="388" />
 
 ### Projects Page
 
-<img src="images/projects/projects_page.gif" alt="Projects"
+<img src="images/screens/projects.png" alt="Projects"
 	title="Projects Page" width="200" height="388" />
 
 ### Interests Page
 
+<img src="images/screens/interests.png" alt="Interests"
+	title="Interests Page" width="200" height="388" />
 
+### Settings Page
+
+<img src="images/screens/settings.png" alt="Settings"
+	title="Settings Page" width="200" height="388" />
+
+### Account Settings Page
+
+<img src="images/screens/account.png" alt="Account"
+	title="Account Settings Page" width="200" height="388" />
+
+### Filter Page
+
+<img src="images/screens/filter.png" alt="Filter"
+	title="Filter Page" width="200" height="388" />
+
+### Create Project Page
+
+<img src="images/screens/create-project.png" alt="Create Project"
+	title="Create Project Page" width="200" height="388" />
 
 ## How To Run
 
