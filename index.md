@@ -1,6 +1,7 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [Functionality](#functionality)
 * [Screens](#screens)
 * [How to Run](#how-to-run)
 
@@ -8,6 +9,19 @@
 ## Overview
 
 Blue Leopards is a reimplementation of the functionality of [Bowfolios](https://bowfolios.github.io) for mobile devices. Work has currently been done on the frontend using [React Native](https://reactnative.dev) for component-based UI design and [React Native Paper](https://callstack.github.io/react-native-paper/) for production-ready components. React Native is a cross-platform UI framework for iOS and Android devices. However, this project is designed with mostly Android devices in mind. These are the current states of the profiles and projects pages (interests page looks similar):
+
+## Functionality
+
+| Function | Description |
+| --- | --- |
+| Log In | Users log in by entering an email and password. |
+| Sign Up | After users enter an email and password, they are automatically logged in and navigate to the projects page. |
+| View Profiles | Scroll through all profiles, their interests, and projects they have contributed to. |
+| View Projects | Scroll through all projects, their tagged interests, and contributors. |
+| View Interests | Scroll through all interests and profiles and projects associated with them. |
+| Manage Account | A user can update their personal account information as well as their interests and projects they have contributed to. |
+| Filter Profiles | User can filter through profiles by a certain interest |
+| Create Project | Create a new project and add its tags (interests) and contributors. |
 
 ## Screens
 
@@ -55,6 +69,8 @@ Blue Leopards is a reimplementation of the functionality of [Bowfolios](https://
 
 <img src="images/screens/create-project.png" alt="Create Project"
 	title="Create Project Page" width="200" height="388" />
+
+## Functionality
 
 ## How To Run
 
