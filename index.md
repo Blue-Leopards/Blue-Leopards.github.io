@@ -12,7 +12,7 @@ Blue Leopards is a reimplementation of the functionality of [Bowfolios](https://
 
 ## Functionality
 
-| Function | Description |
+| Action | Description |
 | --- | --- |
 | Log In | Users log in by entering an email and password. |
 | Sign Up | After users enter an email and password, they are automatically logged in and navigate to the projects page. |
