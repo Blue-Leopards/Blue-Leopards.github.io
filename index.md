@@ -11,16 +11,13 @@ Blue Leopards is a reimplementation of the functionality of [Bowfolios](https://
 
 ## Screens
 
-### Log In
-
+<div style="display:flex; flex-wrap: wrap">
 <img src="images/screens/log-in.png" alt="Log In"
 	title="Log In Page" width="200" height="388" />
 
-### Sign Up
-
 <img src="images/screens/sign-up.png" alt="Sign Up"
 	title="Sign Up Page" width="200" height="388" />
-
+</div>
 ### Profiles Page
 
 <img src="images/profiles/profiles_page.gif" alt="Profiles"
