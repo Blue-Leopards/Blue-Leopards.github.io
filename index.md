@@ -82,8 +82,6 @@ You will then need the code which can be cloned or downloaded from the [reposito
 git clone https://github.com/Blue-Leopards/BlueLeopards.git
 ```
 Make your way into the project directory:
-The current frontend will be in the `client` directory. So, in the BlueLeopards directory, run:
-
 ```
 cd blueleopards
 ```
